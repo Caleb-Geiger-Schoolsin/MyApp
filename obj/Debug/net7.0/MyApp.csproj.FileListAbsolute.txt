@@ -1,0 +1,15 @@
+/Users/calebgeiger/MyApp/bin/Debug/net7.0/MyApp
+/Users/calebgeiger/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/calebgeiger/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/calebgeiger/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/calebgeiger/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/calebgeiger/MyApp/obj/Debug/net7.0/ref/MyApp.dll
